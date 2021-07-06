@@ -1,0 +1,158 @@
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section{display:block;font-family:Verdana, Geneva, Tahoma, sans-serif}
+body{line-height:1;}
+aside{width:100%;overflow: hidden;}
+ol, ul{list-style:none;}
+blockquote, q{quotes:none;}
+blockquote:before, blockquote:after,q:before, q:after{content:'';content:none;}
+table{border-collapse:collapse;border-spacing:0;}
+.menu{float:right;padding:12px 0;color:#7f7f7f;}
+.upcomingEve{width:100%;overflow:hidden;margin:25px 0}
+.sos{padding: 6px;
+    margin: 0 20px;
+    height: 58px;
+    background: #fff; 
+    float: right;}
+.sos1{float:right;}
+.world{padding-top:20px;}
+.world a{color:#999;text-decoration: none;}
+.world a:hover{color:#c7b199;text-decoration: none;}
+.box{width:100%;height:50px;background-color:blue;}
+ .contentheader{padding-top:20px;height: 255px;}
+.logo{padding:0 20px;width:50px;padding-left:20px;}
+.hr{margin:0px;color:#808080;}
+.down i{margin-right:10px}
+.box1{background-color:#CCCCCC;width:100%;height:300px;text-align:center;font-style:inherit;font-weight:lighter;font-family:sans-serif;padding-top:40px;}
+ .h2{font-size:40px;color:white;padding-top:31px;font-family:Verdana, Geneva, Tahoma, sans-serif }
+.h4{font-size:22px;color:white;padding-top:35px;}
+.global{padding-top:30px;font-family:Georgia, 'Times New Roman', Times, serif;font-size:14px;}
+.btn1{background-color:#c7b199;color:seashell;padding:10px;border:0 none;}
+.btn2{background-color:white;padding:10px;border:0 none;font-size:14px;font-family:Verdana, Geneva, Tahoma, sans-serif;width:100px;}
+.discus{background:transparent url(../images/banner.jpg) no-repeat scroll 0 0;height:400px;padding-top:200px;padding-left:26px;}
+.h3{font-size:26px;color:#040404;}
+.h5{color:#f2f1ef;font-size:27px;padding-top:21px;}
+.down{background-color:white;padding:10px;border:0 none;font-size:14px;font-family:Verdana, Geneva, Tahoma, sans-serif;font-size:14px;background-color:ivory;}
+.service{text-align:center;padding-top:20px;}
+.h1{color:black;font-size:26px;padding-top:15px;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.h6{color:#e9a3a6;font-size:20px;margin:20px 0;font-style:italic;}
+.ce{color:#424242;font-size:20px;padding-left:27px;padding-bottom:10px;}
+.cp{color:pink;font-size:15px;margin-top:15px 0 0 15px;}
+.leftCompany{float:left;display:inline;width:50%;}
+.rightCompany{float:left;display:inline;width:50%;}
+.rightCompany h4{padding-left: 0}
+.imageWithContent{overflow:hidden;width:100%;margin:20px 0}
+.leftright{overflow:hidden;width:100%;}
+.content{float:left;display:inline;width:50%;margin:10px;}
+.leftCompany .content,.leftCompany .icon1{float:right}
+.btn2.down{font-size: 12px;}
+.icon1{float:left;display:inline;width:100px}
+.bgheader{background: #fff;height: 70px;padding:0 20px}
+.logoimg{float: left;margin-top: 4px;}
+.treebanner{background:transparent url(../images/treebanner.jpg) no-repeat scroll 0 0;padding-bottom:30px;}
+ .treeh2{color:#f8f9fb;font-size:42px;text-align:center;padding-top:30px;}
+ .contact{text-align:center;width:300px;float:left;overflow:hidden;padding-left:50px;}
+.thick{color:white;font-size:22px;}
+.lightthick{color:lightgray;font-size:22px;}
+.ceo{color:white;font-size:22px;}
+.vp{font-size:22px;color:white;}
+.upe{padding-left:30px;font-size:36px;padding-top:40px;margin-left:30px;padding-bottom:20px;}
+.globalh5{color:black;float:left;overflow:hidden;font-size:24px;}
+.event1{float:left;display:inline }
+.event2{width:54%;float:left;display:inline;padding-left:25px;}
+ .imagg{float:left;overflow:hidden;width:246;padding-left:60px;padding-top:3px;}
+ .mon{color:#c0c0c0;font-style:italic;font-size:14px;padding-top:15px;}
+.hotel{color:#d0ae4f;padding-top:15px;font-size:14px;}
+.add{font-size:14px;padding-top:15px;color:#a6a6a6;}
+.bttn{background-color:#C6B099;margin-top:15px;color:white;width:114px;height:40px;border:0;}
+.system1{width:100%;float:left;display:inline;}
+.jan{width:36%;float:left;display:inline;background-color:#EAE3D9;text-align:center;height:209px;font-size:18px;}
+.press{width:60%;float:left;display:inline;padding:30px 0 0 10px;font-size:14px;}
+.pr{color:#000;font-size:22px;}
+ .head1{font-size:48px;margin:20px 0 0 0;color:#B29C75;}
+.calendarBox{overflow:hidden;width:30%;margin:1%;float:left;display:inline;color:#C7BDB1;}
+.cont{float:left;overflow:hidden;height:224px;width:1125px;}
+.copyright{color:#fff;overflow:hidden;width:690px;text-align:center;margin:0 auto;font-size:14px;padding:13px 0;height:100px;}
+.foot-text:last-child{border-right:0 none;}
+ .newsinput{width:100%}
+.upcoming{color:black;font-size:30px;padding-left:100px;}
+ .latter{float:left;overflow:hidden;}
+.btn3{background-color:#d0ae4f;color:seashell;padding:10px;border:0 none;}
+.up{font-size:30px;}
+ .lapimage{height:60px;width:60px;}
+ .newslider{width:100%;background-color:#000;overflow:hidden;margin-top:20px;}
+.newsletter{color:white;font-size:48px;text-align:center;padding-top:30px;font-family:gadugi;}
+.inputbox input{font-size:14px;font-family:inherit;border:0px;border:0px;height:40px;width:204px;padding:0 17px;}
+.inputbox{float:left;}
+.input{margin:0 auto;width:350px;padding-top:20px;}
+ .inputbox1{height:40px;width:80px;float:left;}
+.inputbox1 input{height:40px;background-color:#B49777;border:0 none;padding:0 20px;font-size:16px;}
+.foot-text{float:left;display:inline;border-right:1px solid #fff;padding:0 20px;}
+.rbob{text-align:center;}
+.rb{color:#000000;font-size:36px;font-family:monospace;}
+.ob{color:#C0B3AA;font-size:16px;padding-top:18px;}
+ .cust-box{width:50%;overflow:hidden;}
+.cust{float:left;display:inline;width:190px}
+.icon1{float:left;display:inline;width:135px}
+.leftbox{float:left;display:inline;width:50%}
+.rightbox{float:left;display:inline;width:50%}
+.rightbox .cust{width:180px}
+.rightbox .icon1{width:150px}
+.tr{height:100%;width:1000px;background:#555;overflow:hidden;}
+.desc{float:left;display:inline}
+.date{float:left;display:inline;}
+.handbox1{height:20px;width:100px;}
+.blog{height:100%;width:500px;}
+.upcomingEventSection{overflow: hidden;}
+.recentBlogSection{padding-top: 30px;}
+/*slider*/
+.card-carousel{display:flex;align-items:center;justify-content:center;position:relative;}
+.card-carousel .my-card{width:600px;position:relative;z-index:1;-webkit-transform:scale(0.6) translateY(-2rem);transform:scale(0.6) translateY(-2rem);opacity:0;cursor:pointer;pointer-events:none;transition:1s;}
+.card-carousel .my-card img{width:275px;height:300px;object-fit:cover;}
+.card-carousel .my-card:after{content:'';position:absolute;height:2px;width:100%;border-radius:100%;bottom:-5rem;-webkit-filter:blur(4px);filter:blur(4px);}
+.card-carousel .my-card:nth-child(0):before{content:'0';position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card:nth-child(1):before{position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card:nth-child(2):before{position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card:nth-child(3):before{position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card:nth-child(4):before{content:'4';position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card:nth-child(5):before{content:'5';position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card:nth-child(6):before{content:'6';position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card:nth-child(7):before{content:'7';position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card:nth-child(8):before{content:'8';position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card:nth-child(9):before{content:'9';position:absolute;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);}
+.card-carousel .my-card.active{z-index:3;-webkit-transform:scale(1) translateY(0) translateX(0);transform:scale(1) translateY(0) translateX(0);opacity:1;pointer-events:auto;transition:1s;}
+.card-carousel .my-card.prev, .card-carousel .my-card.next{z-index:2;-webkit-transform:scale(0.8) translateY(-1rem) translateX(0);transform:scale(0.8) translateY(-1rem) translateX(0);opacity:0.6;pointer-events:auto;transition:1s;}
+/*******menu dropdown**********/.collapsible{background-color:#fff;cursor:pointer;padding:16px;width:100%;border:none;text-align:right;outline:none;font-size:15px;}
+ .contentheader{padding: 20px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    width: 100%;
+    position: absolute;
+    top: 70px;
+    left: 0;}
+
+
+    @media only screen and (max-width: 767px) {
+        .leftCompany,.rightCompany{width:100%}
+        .leftCompany .content, .leftCompany .icon1{float:left}
+        .sos{display:none}
+        .ce{padding-left:0}
+        .event1{display:none}
+        .system1 img{width:100%}
+        .upcomingEve {
+            width: 96%; 
+            margin: 1%;
+            padding: 1%;
+            border: 1px solid #aaa}
+            .calendarBox{width: 70%;
+                margin: 0;
+                padding: 2% 15%;}
+                .card-carousel .my-card{width:30%}
+                .card-carousel .my-card img{width:100%;height:auto}
+                .content{width:54%}
+                .foot-text{width:100%;margin:5px 10px}
+                .copyright{width:100%;text-align: left;}
+      }
+   
+        
+        
